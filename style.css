@@ -1,0 +1,23 @@
+table {
+    color:#7982e0;
+}
+[href="#cats"]{
+    color:rgb(233, 114, 138);
+}
+[colspan="2"]{
+    color:rgb(54, 121, 10);
+}
+.privet{
+    font-family: cursive;
+text-transform: capitalize;
+    color:rgb(18, 204, 18);
+}
+#cats{
+   font-weight:bold;
+}
+html tr{
+    color:rgb(170, 17, 124);
+}
+.top > li {
+    color:goldenrod;
+}
